@@ -1,1 +1,1 @@
-# PRODIGY_WD_02
+During my internship, I created a functional stopwatch application using HTML, CSS, and JavaScript. The project focused on building a user-friendly interface that allows users to start, stop, and reset the timer easily. I implemented features such as lap time recording and a responsive design, ensuring it works seamlessly across different devices. This experience enhanced my skills in JavaScript functionality and front-end development, while also reinforcing my understanding of user interface design.
